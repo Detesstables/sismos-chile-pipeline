@@ -26,7 +26,7 @@ API pública (USGS) → Cloud Storage (datos crudos) → Python (transformación
 
 [Ver dashboard en vivo](https://datastudio.google.com/reporting/b3910d0b-de4f-4b1c-ae04-c9eca6c21016)
 
-![Dashboard de sismos en Chile](dashboard.png)
+![Dashboard de sismos en Chile](dashboard.PNG)
 
 ## Estructura del repositorio
 
